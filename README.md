@@ -1,2 +1,2 @@
 # Simplex-Solver
-Developed for Linear Programming Project. Simplex Solver using Two Phase Method
+Developed for Linear Programming Project. Simplex Solver using Tableau and Two Phase Method
